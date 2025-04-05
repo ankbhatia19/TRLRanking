@@ -445,7 +445,7 @@
         [
             "pops",
             "argon",
-            "capijack"
+            "capi"
         ],
         [
             "bylebukong",
@@ -565,83 +565,6 @@
             "tipsy",
             "fernado",
             "front flip freddy"
-        ]
-    ],
-    "10": [
-        [
-            "mini",
-            "paz",
-            "testie"
-        ],
-        [
-            "keaters",
-            "senor brightside",
-            "renshirokamazaki"
-        ],
-        [
-            "peak",
-            "front flip freddy",
-            "judin"
-        ],
-        [
-            "aarav",
-            "king",
-            "internine"
-        ],
-        [
-            "greensleeves",
-            "capijack",
-            "lukethighwalkr4"
-        ],
-        [
-            "hotshot",
-            "toucan",
-            "roo"
-        ],
-        [
-            "terminator",
-            "arby",
-            "tophatbear"
-        ],
-        [
-            "leon",
-            "luma",
-            "brictone"
-        ],
-        [
-            "tipsy",
-            "leagueson",
-            "waycey"
-        ],
-        [
-            "alex",
-            "pops",
-            "ch"
-        ],
-        [
-            "chyaboi",
-            "5.0stormzy",
-            "dies"
-        ],
-        [
-            "deso",
-            "definitelyanna",
-            "phrez"
-        ],
-        [
-            "ral days",
-            "fernado",
-            "1232char"
-        ],
-        [
-            "rubber ducky",
-            "vpr.vnm",
-            "awe"
-        ],
-        [
-            "argon",
-            "snipey",
-            "tortle"
         ]
     ]
 }
